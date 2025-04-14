@@ -27,7 +27,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7748506439707925289}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -13.6, y: -11.63, z: 0.03676358}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -133,8 +133,8 @@ MonoBehaviour:
   hpCurrernt: 0
   defCurrent: 0
   Speed: 2
-  hpbar: {fileID: 0}
-  defbar: {fileID: 0}
+  hpbar: {fileID: 7766883586992160019}
+  defbar: {fileID: 6463997481878661519}
   FlagsObject: {fileID: 0}
   Flags: 0
 --- !u!114 &3409453083996758237
@@ -275,5 +275,15 @@ PrefabInstance:
 --- !u!4 &8858598162039941678 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6201611223034433739, guid: a0c268429f8e4984eb6ebe648cc37503, type: 3}
+  m_PrefabInstance: {fileID: 3233756722797132517}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &7766883586992160019 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5127664712940521462, guid: a0c268429f8e4984eb6ebe648cc37503, type: 3}
+  m_PrefabInstance: {fileID: 3233756722797132517}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &6463997481878661519 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 8454426301359395690, guid: a0c268429f8e4984eb6ebe648cc37503, type: 3}
   m_PrefabInstance: {fileID: 3233756722797132517}
   m_PrefabAsset: {fileID: 0}
