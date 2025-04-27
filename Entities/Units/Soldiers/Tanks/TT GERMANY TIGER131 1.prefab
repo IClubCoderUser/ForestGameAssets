@@ -153,19 +153,15 @@ MonoBehaviour:
   Crit: 90
   hpCurrernt: 0
   defCurrent: 0
+  Country: 0
   Speed: 2
   hpbar: {fileID: 7766883586992160019}
   defbar: {fileID: 6463997481878661519}
   FlagsObject: {fileID: 0}
-  objectname: "\u0422\u0438\u0433\u0440 \u041D1"
-  description: "Panzerkampfwagen VI Ausf.H \u2014 E, \xAB\u0422\u0438\u0433\u0440\xBB
-    \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0442\u044F\u0436\u0451\u043B\u044B\u0439
-    \u0442\u0430\u043D\u043A \u0432\u0440\u0435\u043C\u0451\u043D \u0412\u0442\u043E\u0440\u043E\u0439
-    \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B, \u043F\u0440\u043E\u0442\u043E\u0442\u0438\u043F\u043E\u043C
-    \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u044F\u0432\u043B\u044F\u043B\u0441\u044F
-    \u0442\u0430\u043D\u043A VK 45.01 (H), \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u043D\u043D\u044B\u0439
-    \u0432 1942 \u0433\u043E\u0434\u0443 \u0444\u0438\u0440\u043C\u043E\u0439 \xAB\u0425\u0435\u043D\u0448\u0435\u043B\u044C\xBB."
+  objectname: 
+  description: 
   Flags: 2
+  unitType: tank_tiger
 --- !u!114 &3409453083996758237
 MonoBehaviour:
   m_ObjectHideFlags: 0
