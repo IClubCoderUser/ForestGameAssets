@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ScalerX: 2
+  type_terrain: 1
   ScalerY: 3
   Hexs: []
   _color: {r: 0, g: 0, b: 0, a: 0}
@@ -196,6 +197,6 @@ SpriteRenderer:
   m_Size: {x: 7.28, y: 5.42}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0

@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ScalerX: 2
+  type_terrain: 1
   ScalerY: 3
   Hexs: []
   _color: {r: 0, g: 1, b: 0, a: 0}
